@@ -10,8 +10,8 @@ h1 {
 }
 
 h2 {
-    margin: 0 0 5;
-    font-size: 28;
+    margin: 0px 0px 5px;
+    font-size: 28px;
 }
 
 select {
@@ -22,7 +22,7 @@ select {
     padding: 10px;
 }
 
-.container{
+.container {
     max-width: 600px;
     margin: 60px auto;
     background: white;
@@ -40,25 +40,25 @@ select {
 }
 
 .city:last-child {
-border: none;
+    border: none;
 }
 
 .date {
-opacity: 0.7;
+    opacity: 0.7;
 }
 
 .time {
-font-size: 48px;
-font-weight: bold;
+    font-size: 48px;
+    font-weight: bold;
 }
 
-.time small{
-font-size: 24px;
-line-height: 48px;
-vertical-align: middle;
+.time small {
+    font-size: 24px;
+    line-height: 48px;
+    vertical-align: middle;
 }
 
-footer{
+footer {
     text-align: center;
     font-size: 18px;
     color: rgba(0, 0, 0, 0.8);
